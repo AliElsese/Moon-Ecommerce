@@ -13,6 +13,7 @@ export default function Navbar() {
                     <NavbarLink>shop</NavbarLink>
                     <NavbarLink>about</NavbarLink>
                     <NavbarLink>contact</NavbarLink>
+                    <NavbarLink>login</NavbarLink>
                 </div>
                 <div className="flex items-center gap-6">
                     <NavbarIcon>search</NavbarIcon>
